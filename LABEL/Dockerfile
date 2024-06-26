@@ -1,3 +1,4 @@
-FROM amlalinux:9
-LABEL author="sabi" \
-      course="devops"
+FROM almalinux:9
+LABEL author="sivakumar" \
+      course="DevOps" \
+      description="this is docker practice"
